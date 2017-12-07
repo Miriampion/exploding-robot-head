@@ -23,13 +23,17 @@ body {
 
 .robot-body {
   width: 320px;
+  position: absolute;
 }
 
 .robot-brain {
   width: 46px;
+  position: relative;
+
 }
 
 .robot-head-right,
 .robot-head-left {
   width: 125px;
+  position: relative;
 }
